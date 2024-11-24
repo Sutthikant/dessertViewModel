@@ -55,6 +55,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.ViewModel
+import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.lifecycle.viewmodel.viewModelFactory
 import tat.mukhutdinov.lesson10.data.Datasource
 import tat.mukhutdinov.lesson10.data.DessertUiState
